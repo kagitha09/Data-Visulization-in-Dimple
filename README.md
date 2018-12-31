@@ -1,9 +1,9 @@
 # Data-Visulization-in-Dimple
 
 This repositry helps us to understand how to develop a Data Visulization and make it interactive using Dimple.js
-we have world_cup.tsv, the tab separated values. Contains data related to football world cup matches. It contains colums like attendance, team1,team2, goals, year, time, stadium etc etc.
+we have world_cup.tsv. Contains data related to football world cup matches. It contains colums like attendance, team1,team2, goals, year, time, stadium etc etc.
 Let us plot a chart between attendance vs year.
-we need to sum all the attendance for a given year before plotting.
+the script need to sum all the attendance for a given year, as part of plotting.
 Let us take year over x-axis and attendance over y-axis.
 Since the x-axis is a continuous variable and it is over time. the best graph will be line chart.
 But let us plot first a bar chart and than later plot a scatter plot and then finally plot the line chart.
