@@ -19,3 +19,14 @@ server will start and the url is http://0.0.0.0:8000/
 go to your browser and type http://0.0.0.0:8000/basic_charts.html
 
 you can now see a bar chart. 
+but bar chart is best suited for categorical type of data.
+
+now type the below url
+http://0.0.0.0:8000/basic_charts_final.html
+
+see, we can notice how good the final graph looks.
+we included the scatter plot along with line plot, in order to understand the events and filled in red circle with css in order to highlight.
+We added a title and center aligned.
+We made x interval in multiple of 4.
+When we move our mouse over the node, we can see the attendance w.r.t year. 
+All this we achived with the help of 5 lines of code in Dimple.js 
